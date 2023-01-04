@@ -2,8 +2,11 @@
 
 [![CI Build](https://github.com/axonivy-market/db-demos/actions/workflows/ci.yml/badge.svg)](https://github.com/axonivy-market/db-demos/actions/workflows/ci.yml)
 
-The database demo shows how to create databases, how to build data tables and how to store and retrieve data.
+Axon Ivy's database demo shows how to create, Read, Update and delete data tables. With the help of database activities, you can integrate existing databases perfectly.
 
 ## Test
 
-Shows how to test dabases with Process Test and Webtest.
+Database demo Shows how to test dabases with Process Test and Webtest.
+
+
+
