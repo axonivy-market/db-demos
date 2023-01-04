@@ -5,8 +5,8 @@
       "data": {
         "projects": [
           {
-            "groupId": "db.demo",
-            "artifactId": "db-demos",
+            "groupId": "dbdemo",
+            "artifactId": "db-demo-demo",
             "version": "${version}",
             "type": "iar"
           }
@@ -27,8 +27,8 @@
       "data": {
         "dependencies": [
           {
-            "groupId": "db.demo",
-            "artifactId": "db-demos",
+            "groupId": "dbdemo",
+            "artifactId": "db-demo",
             "version": "${version}",
             "type": "iar"
           }

@@ -1,6 +1,6 @@
-# db-demos
+# MY-PRODUCT-NAME
 
-
+YOUR DESCRIPTION GOES HERE
 
 ## Demo
 
