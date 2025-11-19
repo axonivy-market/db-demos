@@ -1,11 +1,11 @@
-# Datenbank Demos
+# Datenbank-Demos
 
-#Axon EfeusDatenbank Demo Vorstellungen zu schaffen wie, lest, verbessert und
-streichen #Daten von Datenbank Tische. #Mit Hilfe von Datenbank Aktivitäten, du
-kannst integrieren existieren geradezu Datenbanken.
+Die Datenbank-Demo von Axon Ivy zeigt, wie Sie Daten in Datenbanktabellen
+erstellen, lesen, aktualisieren und löschen können. Mithilfe von
+Datenbankaktivitäten können Sie bestehende Datenbanken nahtlos integrieren.
 
 ## Demo
 
-![#Screenshot](images/screenshot.png)
+![Screenshot](images/screenshot.png)
 
 
