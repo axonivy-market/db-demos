@@ -7,15 +7,15 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>${project.name}</module>
-    <!--<module>${project.name}-demo</module>-->
-    <module>${project.name}-test</module>
-    <module>${project.name}-webtest</module>
-    <module>${project.name}-product</module>
+    <module>db-demos</module>
+    <!--<module>db-demos-demo</module>-->
+    <module>db-demos-test</module>
+    <module>db-demos-webtest</module>
+    <module>db-demos-product</module>
   </modules>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/axonivy-market/${project.name}.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/axonivy-market/db-demos.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
