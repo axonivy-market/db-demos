@@ -1,3 +1,11 @@
-# Datenbank-Demo
+# Datenbank-Demos
 
-Axon Ivy's Datenbank-Demo zeigt, wie man Daten aus Datenbanktabellen erstellt, liest, aktualisiert und löscht. Mit Hilfe von Datenbankaktivitäten kannst Du bestehende Datenbanken perfekt integrieren.
+Die Datenbank-Demo von Axon Ivy zeigt, wie Sie Daten in Datenbanktabellen
+erstellen, lesen, aktualisieren und löschen können. Mithilfe von
+Datenbankaktivitäten können Sie bestehende Datenbanken nahtlos integrieren.
+
+## Demo
+
+![Screenshot](images/screenshot.png)
+
+
