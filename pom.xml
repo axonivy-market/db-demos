@@ -2,13 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.axonivy.demo</groupId>
   <name>db-demos</name>
-  <artifactId>db-demos-modules</artifactId><!-- fill your product name + a "-modules" postfix -->
+  <artifactId>db-demos-modules</artifactId>
   <version>13.2.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
     <module>db-demos</module>
-    <!--<module>db-demos-demo</module>-->
     <module>db-demos-test</module>
     <module>db-demos-webtest</module>
     <module>db-demos-product</module>
