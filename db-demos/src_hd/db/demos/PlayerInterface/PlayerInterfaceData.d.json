@@ -1,19 +1,15 @@
 {
-  "$schema" : "https://json-schema.axonivy.com/data-class/12.0.0/data-class.json",
+  "$schema" : "https://json-schema.axonivy.com/14.0-dev/project/data-class.json",
   "simpleName" : "PlayerInterfaceData",
   "namespace" : "db.demos.PlayerInterface",
-  "isBusinessCaseData" : false,
   "fields" : [ {
     "name" : "player",
-    "type" : "db.demos.Player",
-    "modifiers" : [ "PERSISTENT" ]
+    "type" : "db.demos.Player"
   }, {
     "name" : "players",
-    "type" : "java.util.List<db.demos.Player>",
-    "modifiers" : [ "PERSISTENT" ]
+    "type" : "java.util.List<db.demos.Player>"
   }, {
     "name" : "shared",
-    "type" : "db.demos.Shared",
-    "modifiers" : [ "PERSISTENT" ]
+    "type" : "db.demos.Shared"
   } ]
 }
