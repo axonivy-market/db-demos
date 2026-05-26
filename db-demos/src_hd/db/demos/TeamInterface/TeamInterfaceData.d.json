@@ -1,19 +1,15 @@
 {
-  "$schema" : "https://json-schema.axonivy.com/data-class/12.0.0/data-class.json",
+  "$schema" : "https://json-schema.axonivy.com/14.0-dev/project/data-class.json",
   "simpleName" : "TeamInterfaceData",
   "namespace" : "db.demos.TeamInterface",
-  "isBusinessCaseData" : false,
   "fields" : [ {
     "name" : "shared",
-    "type" : "db.demos.Shared",
-    "modifiers" : [ "PERSISTENT" ]
+    "type" : "db.demos.Shared"
   }, {
     "name" : "team",
-    "type" : "db.demos.Team",
-    "modifiers" : [ "PERSISTENT" ]
+    "type" : "db.demos.Team"
   }, {
     "name" : "teams",
-    "type" : "List<db.demos.Team>",
-    "modifiers" : [ "PERSISTENT" ]
+    "type" : "List<db.demos.Team>"
   } ]
 }
