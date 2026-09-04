@@ -4,12 +4,15 @@
   "namespace" : "db.demos.TeamInterface",
   "fields" : [ {
     "name" : "shared",
-    "type" : "db.demos.Shared"
+    "type" : "db.demos.Shared",
+    "modifiers" : [ ]
   }, {
     "name" : "team",
-    "type" : "db.demos.Team"
+    "type" : "db.demos.Team",
+    "modifiers" : [ ]
   }, {
     "name" : "teams",
-    "type" : "List<db.demos.Team>"
+    "type" : "List<db.demos.Team>",
+    "modifiers" : [ ]
   } ]
 }
