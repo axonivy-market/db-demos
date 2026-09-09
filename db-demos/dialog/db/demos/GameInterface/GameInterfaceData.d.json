@@ -4,18 +4,23 @@
   "namespace" : "db.demos.GameInterface",
   "fields" : [ {
     "name" : "player",
-    "type" : "db.demos.Player"
+    "type" : "db.demos.Player",
+    "modifiers" : [ ]
   }, {
     "name" : "players",
-    "type" : "List<db.demos.Player>"
+    "type" : "List<db.demos.Player>",
+    "modifiers" : [ ]
   }, {
     "name" : "shared",
-    "type" : "db.demos.Shared"
+    "type" : "db.demos.Shared",
+    "modifiers" : [ ]
   }, {
     "name" : "team",
-    "type" : "db.demos.Team"
+    "type" : "db.demos.Team",
+    "modifiers" : [ ]
   }, {
     "name" : "teams",
-    "type" : "List<db.demos.Team>"
+    "type" : "List<db.demos.Team>",
+    "modifiers" : [ ]
   } ]
 }
